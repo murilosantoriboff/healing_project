@@ -8,7 +8,6 @@
 
 1. I used differents many apps, because i wanted split the project so it becomes more recursive and easier to understand.
 2. This is an intermediary-advanced project.
-3. For the best UX of the project, i created a dashboard using Chat.JS.
 4. I spent 1 weeks to do this.
 5. I want to be better after every project.
 
